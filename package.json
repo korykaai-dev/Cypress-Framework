@@ -1,0 +1,30 @@
+{
+  "name": "cypress-framework",
+  "version": "1.0.0",
+  "description": "Cypress Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/korykaai-dev/cypress-framework.git"
+  },
+  "keywords": [
+    "e2e",
+    "tests",
+    "cypress",
+    "automation",
+    "frameworks"
+  ],
+  "author": "korykaai-dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/korykaai-dev/cypress-framework/issues"
+  },
+  "homepage": "https://github.com/korykaai-dev/cypress-framework#readme",
+  "devDependencies": {
+    "cypress": "^10.3.1"
+  }
+}
